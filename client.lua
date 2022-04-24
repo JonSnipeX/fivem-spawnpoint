@@ -11,7 +11,7 @@ Citizen.CreateThread(function()
 
         if IsPedInAnyVehicle(player, false) then
              isTrue = true
-         coords = GetEntityCoords(player)
+             coords = GetEntityCoords(player)
              heading = GetEntityHeading(player)
              ShowNotification("~g~[Success] ~c~Set Spawnpoint")
              end
