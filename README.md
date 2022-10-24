@@ -30,7 +30,7 @@ And you are good to go!
 
 ## Usage
 
-Info | |
+Info | key |
 --- | --- |
 `4` | Saves your current position |
 `5` | Teleports you to your saved position |
