@@ -30,12 +30,9 @@ And you are good to go!
 
 ## Usage
 
-Info | |
---- | --- |
-Code is accessible | Yes |
-Requirements | No |
-Documentation | N/A |
-Support | Yes, we have a [Discord](https://discord.gg/prefech) server at your disposal
+| Key | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `length`      | `int` | **Required**. Length of the string |
 
 
 ## Support
