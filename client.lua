@@ -1,3 +1,5 @@
+-- Made by JonSnipeX
+-- discord.gg/driftzone
 Citizen.CreateThread(function()     
     while true do         
         Citizen.Wait(0) 
