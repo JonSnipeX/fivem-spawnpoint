@@ -22,7 +22,7 @@ A very basic, yet still robust and extendable, spawnpoint script.
 
 3) Add the files into the newly create folder in the resources.
 
-4) Add "start jsx-spawnpoint" to your server.cfg
+4) Add ```start jsx-spawnpoint``` to your server.cfg
 
 And you are good to go!
 
