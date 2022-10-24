@@ -30,10 +30,12 @@ And you are good to go!
 
 ## Usage
 
-| Key   | Description                          |
-| :-------- | :------- | :-----------------    |
-| `4`   | Saves your current position          |
-| `5`   | Teleports you to your saved position |
+Info | |
+--- | --- |
+`4` | Saves your current position |
+`5` | Teleports you to your saved position |
+Documentation | N/A |
+Support | Yes, we have a [Discord](https://discord.gg/prefech) server at your disposal
 
 ## Support
 
