@@ -18,7 +18,7 @@ A very basic, yet still robust and extendable, spawnpoint script.
 
 1) Download the files from the repository (or see [releases](https://github.com/JonSnipeX/Fivem-Spawnpoint/releases))
 
-2) Create a folder in your resources folder named "jsx-spawnpoint"
+2) Create a folder in your resources folder named ```jsx-spawnpoint```
 
 3) Add the files into the newly create folder in the resources.
 
