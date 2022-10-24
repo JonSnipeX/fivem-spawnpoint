@@ -4,7 +4,7 @@
 <h1 align="center">FiveM Spawnpoint</h1>
 
 <div align="center">
-A very basic, yet still robust and extendable, spawnpoint script.
+A very basic Spawnpoint Script (useful for drift servers).
 </div>
 
 <div align="center">
