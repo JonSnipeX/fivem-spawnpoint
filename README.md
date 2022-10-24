@@ -28,6 +28,16 @@ And you are good to go!
 
 <hr>
 
+## Usage
+
+Info | |
+--- | --- |
+Code is accessible | Yes |
+Requirements | No |
+Documentation | N/A |
+Support | Yes, we have a [Discord](https://discord.gg/prefech) server at your disposal
+
+
 ## Support
 
 For support, join my [discord](https://discord.gg/driftzone).
