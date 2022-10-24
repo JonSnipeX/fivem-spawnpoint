@@ -30,9 +30,9 @@ And you are good to go!
 
 ## Usage
 
-| Key   | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `4`   | Saves your current position |
+| Key   | Description                          |
+| :-------- | :------- | :-----------------    |
+| `4`   | Saves your current position          |
 | `5`   | Teleports you to your saved position |
 
 ## Support
