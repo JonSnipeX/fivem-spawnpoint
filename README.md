@@ -1,4 +1,16 @@
+<p align="center">
+  <a href="https://discord.gg/driftzone" rel="noopener" target="_blank"><img width="150" src="https://i.tasoagc.dev/c1pD" alt="logo"></a></p>
+</p>
+<h1 align="center">FiveM Spawnpoint</h1>
+
+<div align="center">
+A very basic, yet still robust and extendable, spawnpoint script.
+</div>
+
+<div align="center">
 <a href="https://discord.gg/driftzone" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/982291569589780520/widget.png"></a>
+</div>
+
 
 <hr>
 
