@@ -8,7 +8,7 @@ A very basic Spawnpoint Script (useful for drift servers).
 </div>
 
 <div align="center">
-<a href="https://discord.gg/driftzone" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/982291569589780520/widget.png"></a>
+<a href="https://discord.gg/driftzone" title="Chat on Discord"><img alt="Discord Status" src="https://discordapp.com/api/guilds/1121039325652582440/widget.png"></a>
 </div>
 
 
